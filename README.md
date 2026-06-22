@@ -1,4 +1,3 @@
-# Cricket-Data-Analytics-Python-PowerBI
 # 🏏 Cricket Data Analytics using Python & Power BI
 
 ## 📌 Overview
